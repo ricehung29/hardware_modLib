@@ -1,2 +1,2 @@
 # Hardware modLib - Arduinos
-Pin out images & datasheets of Arduino Leonardo
+Pin out images of Arduino Leonardo
