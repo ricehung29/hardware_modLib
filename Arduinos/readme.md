@@ -1,6 +1,6 @@
 Hardware modLib - Arduinos
 ---
-Pin out images & datasheets of Arduino.....
+With pinout or datasheet of Arduino.....
 - Uno
 - Mega 2560
 - Nano
