@@ -1,2 +1,2 @@
 # Hardware modLib - Arduinos
-Pin out images & datasheets of Arduino Micro
+Pin out images of Arduino Micro
