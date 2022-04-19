@@ -2,4 +2,7 @@
 
 Registers listed :
 - 74HC595 (Digital Output Shift Register , SIPO)
-- TCA9548A (I2C Multiplexer)
+
+Comming Soon :
+- TCA9548A (I2C Multiplexer) 
+- MCP3008 (8 Channel ADC SPI) 
