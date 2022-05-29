@@ -4,6 +4,8 @@
 This is a "hard drive" for datasheets and pinout images for my daily use .With this Github repo , I do not need to search the component name everytime , easy and simple .Maybe sometimes I will write down notes of the projects when I am working on haha .
 
 <hr>
-Supported by Hardware team of REC , CSWCSS 
+
+#### Supported by Hardware team of REC , CSWCSS 
+#### Software support by Software team of REC , CSWCSS
 
 Warm reminder : Don't use any resources here if you don't know what it is
