@@ -8,4 +8,7 @@
 <img src="https://github.com/ricehung29/hardware_modLib/blob/main/PCB/width.png?raw=true" >
 1 Inch = 1000 mils
 
+## mm to mil
+<img src="https://github.com/ricehung29/hardware_modLib/blob/main/PCB/mm2mil.png?raw=true" >
+
 ---
